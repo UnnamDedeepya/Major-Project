@@ -1,0 +1,20 @@
+[
+    {
+        "title": "complete assignments",
+        "description": "do major project",
+        "category": "work",
+        "completed": false
+    },
+    {
+        "title": "walking",
+        "description": "good for health",
+        "category": "personal",
+        "completed": true
+    },
+    {
+        "title": "trip",
+        "description": "go out with friends for relaxing",
+        "category": "personal",
+        "completed": false
+    }
+]
